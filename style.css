@@ -1,0 +1,13 @@
+h1{color:#2521CB;font-family:seigo script;font-size:xx-large in;text-align: center;}
+*{background-color:rgb(255, 240, 255);}
+a{word-spacing: 100 px;}
+p{font-size:xx-large;color:#D61394;font-family:chalkboard;justify-content: center;text-align: center;}
+img{background-color:#00008b;border:solid;border-color: red;}
+ul{color:#0E6141;font-size:larger;font-family:lucida handwriting;list-style-type: square;}
+.origami_design{
+    display:flex;
+    justify-content:space-evenly;
+}
+.item{
+   justify-content: space-evenly;
+}
